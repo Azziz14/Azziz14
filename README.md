@@ -2,63 +2,75 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24,30&text=ASHISH%20GUPTA&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
 
-# BUILDING SYSTEMS THAT THINK.
+# BUILDING SYSTEMS THAT THINK
 
-### 🚀 Scalable • 🧠 Intelligent • 🛡 Reliable • ⚡ Optimized
+### ◈ Backend Engineer • ◉ AI Systems Builder • ◆ Scalable Architectures
 
-I build **high-performance backend systems** and **AI-powered products** that solve real-world problems.
-
-`System Design` • `Distributed Systems` • `Real-Time Architectures` • `LLMs` • `GenAI`
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+Scalable+Systems+That+Think;Low-Latency+Products+at+Scale;AI+Infrastructure+%7C+Distributed+Systems;Turning+Complexity+Into+Products" />
 
 <br>
 
 <a href="mailto:ashishking554@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
 </a>
+
 <a href="https://linkedin.com/in/ashish-gupta-007620292">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
+
 <a href="https://github.com/Azziz14">
 <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github"/>
 </a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Azziz14&style=for-the-badge&color=blueviolet"/>
 
 </div>
 
 ---
 
-# 👨‍💻 ABOUT ME
+# ◬ ABOUT
 
-Passionate about building scalable systems, AI products, and solving complex engineering problems through clean architecture.
+I build **high-performance backend systems** and **AI-powered products** focused on:
+
+◆ Scalability  
+◆ Reliability  
+◆ Performance  
+◆ Distributed Architectures  
+◆ Real-time Systems  
+
+I enjoy solving engineering problems where **speed**, **architecture**, and **intelligence** matter.
 
 ---
 
-# ⚒ TECH STACK
+# ⌬ TECH ARSENAL
 
-## Languages
+## 💻 Languages
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript,typescript,sql"/>
 </p>
 
-## Backend
+## ⚙ Backend
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=spring,nodejs,express,fastapi,redis,mongodb,mysql,docker"/>
 </p>
 
-## Frontend
+## 🎨 Frontend
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind"/>
 </p>
 
-## AI / ML
+## 🤖 AI / ML
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
 </p>
 
-<p>
+<p align="center">
 <img src="https://img.shields.io/badge/RAG-4ECDC4?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Transformers-FFA726?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/QLoRA-45B7D1?style=for-the-badge"/>
@@ -69,181 +81,198 @@ Passionate about building scalable systems, AI products, and solving complex eng
 
 ---
 
-# 🚀 FEATURED PROJECTS
+# ◉ FLAGSHIP SYSTEMS
 
 ---
 
-## 01 🎯 InterviewPilot AI
+## 🎯 InterviewPilot AI
 
 ### Adaptive RAG Interview Intelligence Platform
 
 **Problem**
-Interview prep platforms are static.
+
+Traditional interview preparation platforms are static and generic.
 
 **Solution**
-Built an AI system that adapts to the candidate.
 
-**Impact**
-Personalized interviews, targeted learning, job readiness.
+Built an adaptive AI platform that learns from candidate performance, detects weaknesses, and creates personalized preparation loops.
 
-### Flow
+### System Flow
 
 ```text
-User Upload Resume
-        ↓
-Resume Parsing & Skill Extraction
-        ↓
-JD Analysis & Matching
-        ↓
-Vector Retrieval (ChromaDB)
-        ↓
+Resume Upload
+     ↓
+Skill Extraction
+     ↓
+JD Analysis
+     ↓
+Vector Retrieval
+     ↓
 AI Question Generation
-        ↓
-Answer Evaluation (LLM)
-        ↓
+     ↓
+LLM Evaluation
+     ↓
 Weakness Detection
-        ↓
+     ↓
 Personalized Roadmap
 ```
 
-### Tech Stack
+### Core Systems
+
+◆ Resume Parsing Engine  
+◆ JD Matching System  
+◆ RAG Pipeline  
+◆ AI Evaluation Engine  
+◆ Weakness Detection  
+◆ Personalized Roadmaps  
+
+### Stack
 
 `FastAPI` `React` `Gemini` `ChromaDB` `PostgreSQL`
 
 ---
 
-## 02 📈 CryptoTrade
+## 📈 CryptoTrade
 
-### Low-Latency Real-Time Trading Infrastructure
+### Low-Latency Trading Infrastructure
 
 **Problem**
-Trading platforms suffer from slow execution.
+
+Retail trading systems suffer from slow execution and poor event streaming.
 
 **Solution**
-Built an event-driven trading engine.
 
-**Impact**
-Sub-100ms latency, live streaming, secure execution.
+Built a real-time event-driven trading engine optimized for speed and concurrency.
 
-### Flow
+### System Flow
 
 ```text
-Binance WebSocket Stream
-          ↓
-      Stream Handler
-          ↓
-   Market Data Processor
-          ↓
-    Execution Engine
-     ↙         ↘
-Risk Layer    Analytics
-     ↓            ↓
-Portfolio Service → User Dashboard
+Binance Stream
+      ↓
+WebSocket Handler
+      ↓
+Execution Engine
+   ↙        ↘
+Risk       Analytics
+   ↓          ↓
+Portfolio → Dashboard
 ```
 
 ### Metrics
 
-⚡ <100ms latency
-⚡ Real-time execution
-⚡ High throughput
+◆ <100ms latency  
+◆ Real-time execution  
+◆ High throughput  
 
-### Tech Stack
+### Core Systems
 
-`Spring Boot` `Redis` `MongoDB` `React` `WebSocket`
+◆ WebSocket Streams  
+◆ Order Execution Engine  
+◆ Portfolio Analytics  
+◆ Redis Auth Layer  
+◆ Rate Limiter  
+
+### Stack
+
+`Spring Boot` `Java` `Redis` `MongoDB` `React`
 
 ---
 
-## 03 🧠 QueryForge AI
+## 🧠 QueryForge AI
 
 ### Natural Language → SQL Compiler
 
 **Problem**
-SQL writing is time-consuming.
+
+Writing SQL manually takes time and expertise.
 
 **Solution**
-Built an LLM-powered SQL generation engine.
 
-**Impact**
-Faster data access, improved productivity.
+Built an LLM-powered system that converts natural language into executable SQL.
 
-### Flow
+### System Flow
 
 ```text
-User Query (Natural Language)
-              ↓
-       Query Understanding
-              ↓
-      SQL Generation (CodeLlama)
-              ↓
-   SQL Validation & Optimization
-              ↓
-       Database Execution
-              ↓
-       Executable SQL Output
+User Query
+    ↓
+LLM Understanding
+    ↓
+SQL Generation
+    ↓
+Validation Layer
+    ↓
+Execution
 ```
 
 ### Metrics
 
-⚡ 80k+ Training Data
-⚡ 79% Accuracy
-⚡ <1s Inference
+◆ 80k+ Training Data  
+◆ 79% Accuracy  
+◆ <1s Inference  
 
-### Tech Stack
+### Core Systems
 
-`Transformers` `QLoRA` `FastAPI` `PostgreSQL`
+◆ CodeLlama Fine-Tuning  
+◆ QLoRA Optimization  
+◆ SQL Validation  
+◆ FastAPI Deployment  
+
+### Stack
+
+`Transformers` `QLoRA` `FastAPI`
 
 ---
 
-## 04 🏥 MediSense AI
+## 🏥 MediSense AI
 
-### Clinical Intelligence & Prediction System
+### Clinical Intelligence Platform
 
 **Problem**
-Early disease detection from medical data is hard.
+
+Early disease detection from medical data is difficult.
 
 **Solution**
-Built an AI prediction system for diagnostics.
 
-**Impact**
-Better early detection and clinical confidence.
+Built an AI-driven predictive healthcare intelligence system.
 
-### Flow
+### System Flow
 
 ```text
-Medical Records
-      ↓
-Data Cleaning
-      ↓
-Feature Extraction (BERT)
-      ↓
-Prediction Engine (TensorFlow)
-      ↓
+Medical Data
+     ↓
+Preprocessing
+     ↓
+Feature Extraction
+     ↓
+Prediction Engine
+     ↓
 Clinical Insights
-      ↓
-Health Advisory & Recommendations
-      ↓
-Doctor / User Dashboard
+     ↓
+Health Advisory
 ```
 
 ### Metrics
 
-⚡ 10k+ Medical Records
-⚡ Multi-class Prediction
-⚡ NLP-powered diagnostics
+◆ 10k+ Records  
+◆ Multi-class Prediction  
+◆ NLP-powered Diagnosis  
 
-### Tech Stack
+### Core Systems
+
+◆ Disease Prediction  
+◆ Clinical NLP  
+◆ Diagnostic Analytics  
+◆ Health Advisory Layer  
+
+### Stack
 
 `TensorFlow` `BERT` `Flask` `MongoDB`
 
 ---
 
-# 📊 GITHUB STATS
+# 📊 ENGINEERING SIGNALS
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Azziz14&theme=tokyonight&row=1&column=6"/>
-
-<br><br>
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Azziz14&show_icons=true&theme=tokyonight&hide_border=true"/>
 
@@ -253,62 +282,77 @@ Doctor / User Dashboard
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Azziz14&theme=tokyo-night"/>
 
-<br><br>
-
-<img width="95%" src="https://ghchart.rshah.org/58A6FF/Azziz14"/>
-
 </div>
 
 ---
 
 # 🧩 PROBLEM SOLVING
 
-**150+ LeetCode Problems Solved**
+### LeetCode Journey
 
-Topics:
+◈ **150+ Problems Solved**
 
-`Arrays` `DP` `Graphs` `Trees` `Greedy` `Hashing` `Sliding Window` `Stacks`
+### Core Domains
+
+`Arrays` `Trees` `Graphs` `DP`  
+`Hashing` `Sliding Window` `Stacks`  
+`Binary Search` `Greedy`
+
+### What it strengthened
+
+◆ Pattern Recognition  
+◆ Complexity Analysis  
+◆ Optimization Thinking  
+◆ Edge Case Handling  
+◆ Problem Decomposition  
 
 ---
 
-# 🏅 EXPERIENCE
+# 💼 EXPERIENCE
 
-### MagnumCorps
-
-**Web Development Intern**
+### 🌐 MagnumCorps  
+**Web Development Intern**  
 `Jun 2024 — Aug 2024`
 
-Built scalable frontend modules and integrated REST APIs.
+Built scalable frontend modules and integrated APIs in agile workflows.
 
 ---
 
-### Yashika Tour & Travel
-
-**Freelance Full Stack Developer**
+### 🚀 Yashika Tour & Travel  
+**Freelance Full Stack Developer**  
 `Oct 2024 — Dec 2024`
 
-Built end-to-end production-grade booking systems.
+Built and deployed end-to-end production-grade booking systems.
 
 ---
 
-# 🎖 CERTIFICATIONS
+# 🎓 CERTIFICATIONS
 
-🏅 Salesforce Agentforce Specialist
-🏅 Microsoft Azure AI Fundamentals
-🏅 Oracle Cloud AI Foundations
-🏅 Generative AI Development
+◆ Salesforce Agentforce Specialist  
+◆ Azure AI Fundamentals (AI-900)  
+◆ Oracle Cloud AI Foundations  
+◆ Generative AI Development  
 
 ---
 
-# ⚽ BEYOND CODE
+# 🏆 BEYOND CODE
 
-⚽ J&K Under-15 Football Squad
-🧘 State-Level Yoga Representation
+### Sports & Discipline
+
+⚽ Selected for J&K Under-15 Football Squad  
+🧘 Represented district in State-Level Yoga Championships  
+
+### Personal Edge
+
+◆ Discipline under pressure  
+◆ Team collaboration  
+◆ Competitive mindset  
+◆ Long-term consistency  
 
 ---
 
 <div align="center">
 
-## Build systems. Ship products. Solve complexity.
+## Build systems. Solve complexity. Scale ideas.
 
 </div>
