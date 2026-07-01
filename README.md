@@ -22,6 +22,10 @@
 <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github"/>
 </a>
 
+<a href="https://leetcode.com/u/ashizz077/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=Azziz14&style=for-the-badge&color=blueviolet"/>
@@ -32,15 +36,8 @@
 
 # ◬ ABOUT
 
-I build **high-performance backend systems** and **AI-powered products** focused on:
-
-◆ Scalability  
-◆ Reliability  
-◆ Performance  
-◆ Distributed Architectures  
-◆ Real-time Systems  
-
-I enjoy solving engineering problems where **speed**, **architecture**, and **intelligence** matter.
+⚡ Building scalable backend systems and AI products.  
+🧠 Focused on distributed systems, performance engineering, and reliable software at scale.
 
 ---
 
@@ -139,7 +136,7 @@ Built an adaptive AI platform that learns from candidate performance.
 └────────────────────────────┘
 ```
 
-### Stack
+**Stack**
 
 `FastAPI` `React` `Gemini` `ChromaDB` `PostgreSQL`
 
@@ -186,13 +183,7 @@ Built an event-driven real-time trading engine.
              └────────────────────────────┘
 ```
 
-### Metrics
-
-◆ <100ms latency  
-◆ Real-time execution  
-◆ High throughput  
-
-### Stack
+**Stack**
 
 `Spring Boot` `Java` `Redis` `MongoDB`
 
@@ -240,13 +231,7 @@ Built an LLM system that converts natural language into SQL.
                              └──────────────────┘
 ```
 
-### Metrics
-
-◆ 80k+ Training Data  
-◆ 79% Accuracy  
-◆ <1s Inference  
-
-### Stack
+**Stack**
 
 `Transformers` `QLoRA` `FastAPI`
 
@@ -295,7 +280,7 @@ Built predictive healthcare intelligence.
 └──────────────────┘             └──────────────────┘
 ```
 
-### Stack
+**Stack**
 
 `TensorFlow` `BERT` `Flask`
 
@@ -345,7 +330,7 @@ Built an ML-powered Gmail-integrated spam intelligence system.
 └──────────────────┘             └──────────────────┘
 ```
 
-### Stack
+**Stack**
 
 `Python` `Scikit-learn` `Flask`
 
@@ -380,11 +365,17 @@ Built an ML-powered Gmail-integrated spam intelligence system.
 
 ◈ **150+ LeetCode Problems Solved**
 
-Core domains:
+### Core Domains
 
 `Arrays` `Trees` `Graphs` `DP`  
 `Hashing` `Sliding Window` `Stacks`  
 `Binary Search` `Greedy`
+
+### 🔗 Profile
+
+<a href="https://leetcode.com/u/ashizz077/">
+<img src="https://img.shields.io/badge/View%20LeetCode%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
 
 ---
 
