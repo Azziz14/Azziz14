@@ -1,91 +1,63 @@
 <div align="center">
 
-<h1>ASHISH GUPTA</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=6,12,20,24,30&text=Ashish%20Gupta&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20Systems%20Builder%20%7C%20Backend%20Architect&descAlignY=58"/>
 
-<p>
-  <strong>Software Engineer</strong> • 
-  <strong>AI Systems Builder</strong> • 
-  <strong>Backend Architect</strong>
-</p>
+<br>
 
-<p>
-Building software where intelligence meets scale.
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+Scalable+Systems+That+Think;Real-Time+Architectures+%E2%9A%A1;AI+Products+for+Real+World+Problems;Backend+Engineering+at+Scale" />
 
-<p>
-  <a href="mailto:ashishking554@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/ashish-gupta-007620292">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="https://github.com/Azziz14">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-  </a>
-</p>
+<br><br>
+
+<a href="mailto:ashishking554@gmail.com">
+<img src="https://img.shields.io/badge/MAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/ashish-gupta-007620292">
+<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Azziz14">
+<img src="https://img.shields.io/badge/GITHUB-111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Azziz14&style=for-the-badge&color=blueviolet"/>
 
 </div>
 
 ---
 
-# / identity
+<div align="center">
 
-```yaml id="d83hf9"
-name: Ashish Gupta
-domain: Software Engineering + AI Systems
-education: B.Tech Information Technology (CBIT)
-specialization:
-  - Distributed Systems
-  - Backend Engineering
-  - AI Infrastructure
-  - Real-Time Architectures
-mission:
-  Build systems that are fast, intelligent, and resilient.
-```
+# ⚡ SYSTEM PROFILE
 
-I don't just build applications.
-
-I build:
-
-→ systems that process events in real time
-→ AI pipelines that reason over data
-→ backend architectures designed for scale
-→ infrastructure that survives load
-
-The goal is simple:
-
-**Turn complex ideas into production-grade systems.**
-
----
-
-# / engineering philosophy
+</div>
 
 <table>
 <tr>
-<td width="33%">
+<td width="50%">
 
-### ⚙ Performance First
-
-Latency matters.
-Efficiency matters.
-Architecture matters.
-
-</td>
-
-<td width="33%">
-
-### 🧠 Intelligence Native
-
-AI should not be an add-on.
-It should be part of the system itself.
+```yaml
+Name: Ashish Gupta
+Role: Software Engineer
+Specialization:
+  - AI Systems
+  - Distributed Systems
+  - Backend Engineering
+  - Real-Time Architectures
+```
 
 </td>
+<td width="50%">
 
-<td width="33%">
-
-### 🏗 Scale by Design
-
-Build for growth from day one.
+```yaml
+Current Focus:
+  - High Performance Systems
+  - LLM Infrastructure
+  - System Design
+  - Scalable Products
+```
 
 </td>
 </tr>
@@ -93,237 +65,254 @@ Build for growth from day one.
 
 ---
 
-# / stack
+<div align="center">
 
-## Languages
+# 🧠 ENGINEERING DNA
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript,typescript,sql"/>
-</p>
+</div>
 
----
+<table>
+<tr>
+<td width="33%">
 
-## Backend Systems
+### ⚙ Performance
 
-<p>
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express,fastapi,flask,redis,mongodb,mysql,docker"/>
-</p>
+Building systems where
+latency matters.
 
----
+</td>
 
-## Frontend
+<td width="33%">
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css"/>
-</p>
+### 🧠 Intelligence
 
----
+AI-native systems
+with practical use.
 
-## AI Infrastructure
+</td>
 
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
-</p>
+<td width="33%">
 
-```txt id="a7n4qp"
-Transformers • RAG • PEFT • QLoRA • BERT • XGBoost • Vector Databases
-```
+### 🏗 Scale
 
----
+Architecture designed
+for long-term growth.
 
-# / flagship systems
-
-These are not experiments.
-
-These are engineered systems.
+</td>
+</tr>
+</table>
 
 ---
-
-## 01 — InterviewPilot AI
-
-**RAG-Powered Adaptive Interview Intelligence**
-
-An interview ecosystem that learns from candidate behavior, analyzes weak areas, and evolves dynamically.
-
-### Core Systems
-
-```txt id="m9a7wz"
-Resume Parsing Engine
-JD Matching Engine
-Vector Retrieval Layer
-Adaptive Interview Generator
-AI Answer Evaluator
-Weakness Detection System
-Roadmap Intelligence Engine
-Resume Tailoring Pipeline
-```
-
-### Why it matters
-
-Traditional mock interview systems are static.
-
-InterviewPilot builds a continuous adaptive loop:
-
-**Resume → Skill Extraction → Interview Generation → Evaluation → Weakness Detection → Personalized Improvement**
-
-That makes the product self-improving.
-
-### Stack
-
-`FastAPI` `React` `Supabase` `Gemini` `ChromaDB` `PostgreSQL`
-
----
-
-## 02 — CryptoTrade
-
-**Real-Time Trading Infrastructure**
-
-A low-latency trading platform engineered around live Binance market streams.
-
-### Core Systems
-
-```txt id="p8gh4r"
-WebSocket Market Streaming
-Trade Execution Engine
-Portfolio Analytics
-OTP Verification Pipeline
-Rate Limiting Layer
-Authentication Layer
-```
-
-### Why it matters
-
-Trading systems are infrastructure-heavy.
-
-They demand:
-
-→ speed
-→ consistency
-→ concurrency
-→ precision
-
-This project was built around those constraints.
-
-### Stack
-
-`Spring Boot` `Java` `React` `Redis` `MongoDB` `WebSocket`
-
----
-
-## 03 — QueryForge AI
-
-**Natural Language to SQL Compiler**
-
-LLM fine-tuning pipeline built to convert human language into optimized SQL.
-
-### Core Systems
-
-```txt id="s7l1fk"
-Fine-Tuned CodeLlama
-QLoRA Pipeline
-PEFT Optimization
-FastAPI Inference Engine
-Execution Validation Layer
-```
-
-### Scale
-
-80k+ SQL training pairs
-79% Spider benchmark accuracy
-Sub-second inference
-
-### Stack
-
-`Python` `Transformers` `FastAPI` `QLoRA`
-
----
-
-## 04 — MediSense AI
-
-**Clinical Intelligence Engine**
-
-Predictive healthcare system designed to analyze patterns and assist diagnosis.
-
-### Core Systems
-
-```txt id="z6c9vw"
-Disease Prediction Engine
-BERT Clinical NLP
-Health Advisory Layer
-Diagnostic Analytics
-```
-
-### Stack
-
-`TensorFlow` `BERT` `Flask` `MongoDB`
-
----
-
-# / professional experience
-
-## MagnumCorps
-
-**Web Development Intern**
-
-Worked on scalable UI modules and backend API integration in agile development cycles.
-
----
-
-## Yashika Tour & Travel
-
-**Freelance Full Stack Developer**
-
-Built and deployed a full-scale booking ecosystem.
-
-From frontend interfaces to backend APIs.
-
-Production-ready.
-
----
-
-# / certifications
-
-```txt id="k4m8qp"
-Salesforce Agentforce Specialist
-Microsoft Azure AI Fundamentals
-Oracle Cloud AI Foundations
-Generative AI Development
-```
-
----
-
-# / proof of work
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Azziz14&show_icons=true&theme=github_dark&hide_border=true"/>
+# 🛠 TECH STACK
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azziz14&layout=compact&theme=github_dark&hide_border=true"/>
+</div>
 
-<img height="180" src="https://streak-stats.demolab.com/?user=Azziz14&theme=github-dark-blue&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts,sql,react,nextjs,tailwind,nodejs,express,spring,fastapi,flask,mongodb,mysql,redis,docker,tensorflow,pytorch"/>
+
+<br><br>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Transformers-black?style=flat-square"/>
+<img src="https://img.shields.io/badge/RAG-black?style=flat-square"/>
+<img src="https://img.shields.io/badge/QLoRA-black?style=flat-square"/>
+<img src="https://img.shields.io/badge/PEFT-black?style=flat-square"/>
+<img src="https://img.shields.io/badge/BERT-black?style=flat-square"/>
+</p>
+
+---
+
+<div align="center">
+
+# 🚀 FEATURED BUILDS
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+## 🎯 InterviewPilot AI
+
+**Adaptive RAG Interview Engine**
+
+┣ Resume Parsing
+┣ JD Matching
+┣ AI Interview Simulation
+┣ LLM Evaluation
+┣ Weakness Detection
+┣ Roadmap Generation
+
+**Stack**
+
+`FastAPI` `React` `Gemini` `ChromaDB`
+
+</td>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Azziz14&repo=Rag_Placement_Copilot-&theme=github_dark"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="50%">
+
+## 📈 CryptoTrade
+
+**Low-Latency Trading Platform**
+
+┣ WebSocket Streams
+┣ Market Execution
+┣ Portfolio Tracking
+┣ Redis OTP Cache
+┣ JWT + 2FA
+┣ Rate Limiting
+
+**Stack**
+
+`Spring Boot` `React` `Redis`
+
+</td>
+<td width="50%">
+
+```text
+Latency: <100ms
+Architecture: Event Driven
+Scale: High Frequency
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="50%">
+
+## 🧠 QueryForge AI
+
+**Natural Language → SQL Engine**
+
+┣ Fine-Tuned CodeLlama
+┣ QLoRA Training
+┣ SQL Generation
+┣ FastAPI Deployment
+
+</td>
+<td width="50%">
+
+```text
+80k+ Training Pairs
+79% Benchmark Accuracy
+Sub-second Inference
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="50%">
+
+## 🏥 MediSense AI
+
+**Clinical Intelligence System**
+
+┣ Disease Prediction
+┣ BERT NLP Pipeline
+┣ Analytics Engine
+┣ Health Advisory
+
+</td>
+<td width="50%">
+
+```text
+Medical AI
+NLP + Prediction
+10k+ Records
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+# 📊 DEVELOPMENT SIGNALS
+
+</div>
+
+<p align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Azziz14&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azziz14&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img width="70%" src="https://streak-stats.demolab.com/?user=Azziz14&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+<div align="center">
+
+# 🏅 EXPERIENCE
+
+</div>
+
+```text
+MagnumCorps
+Web Development Intern
+Jun 2024 — Aug 2024
+```
+
+```text
+Yashika Tour & Travel
+Freelance Full Stack Developer
+Oct 2024 — Dec 2024
+```
+
+---
+
+<div align="center">
+
+# 🎖 CERTIFICATIONS
+
+Salesforce Agentforce Specialist • Azure AI-900 • OCI AI Foundations • Generative AI
 
 </div>
 
 ---
 
-# / beyond engineering
+<div align="center">
 
-I compete too.
+# ⚔ EXTRA SIGNAL
 
-→ 150+ LeetCode problems solved
-→ Selected for J&K Under-15 State Football Squad
-→ State-level Yoga representative
+150+ LeetCode Problems
+J&K Under-15 Football Squad
+State-Level Yoga Representation
 
-Discipline transfers.
-
-From sport to systems.
+</div>
 
 ---
 
 <div align="center">
 
-### Building systems people can depend on.
+### Building software that scales.
 
-<img src="https://komarev.com/ghpvc/?username=Azziz14&style=for-the-badge"/>
+### Building systems that think.
 
 </div>
