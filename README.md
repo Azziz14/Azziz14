@@ -1,15 +1,15 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=6,12,20,24,30&text=Ashish%20Gupta&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20Systems%20Builder%20%7C%20Backend%20Architect&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=6,12,20,24,30&text=ASHISH%20GUPTA&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20•%20AI%20Systems%20Builder%20•%20Backend%20Architect&descAlignY=58"/>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+Scalable+Systems+That+Think;Real-Time+Architectures+%E2%9A%A1;AI+Products+for+Real+World+Problems;Backend+Engineering+at+Scale" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1200&color=00F7FF&center=true&vCenter=true&width=1000&lines=Building+Scalable+Systems+That+Think;Engineering+Low-Latency+Products;AI+Infrastructure+for+Real+World+Problems;Distributed+Systems+%7C+Backend+Engineering+%7C+LLMs" />
 
 <br><br>
 
 <a href="mailto:ashishking554@gmail.com">
-<img src="https://img.shields.io/badge/MAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/ashish-gupta-007620292">
@@ -17,7 +17,7 @@
 </a>
 
 <a href="https://github.com/Azziz14">
-<img src="https://img.shields.io/badge/GITHUB-111?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br><br>
@@ -28,35 +28,52 @@
 
 ---
 
-<div align="center">
+# ⚡ VALUE I BRING
 
-# ⚡ SYSTEM PROFILE
+```text id="1f9d3a"
+✔ Production-grade backend systems
+✔ AI-powered intelligent product development
+✔ Real-time event-driven architectures
+✔ Scalable APIs & infrastructure design
+✔ Problem solving with strong DSA foundation
+```
 
-</div>
+I specialize in building **high-performance software systems** where:
+
+→ scale matters
+→ latency matters
+→ intelligence matters
+
+My goal is to create systems that are:
+
+**Fast. Reliable. Intelligent.**
+
+---
+
+# 🧠 SYSTEM PROFILE
 
 <table>
 <tr>
 <td width="50%">
 
-```yaml
+```yaml id="8c2be4"
 Name: Ashish Gupta
 Role: Software Engineer
-Specialization:
-  - AI Systems
-  - Distributed Systems
+Domain:
   - Backend Engineering
-  - Real-Time Architectures
+  - AI Infrastructure
+  - Distributed Systems
 ```
 
 </td>
 <td width="50%">
 
-```yaml
+```yaml id="3da71b"
 Current Focus:
-  - High Performance Systems
-  - LLM Infrastructure
-  - System Design
-  - Scalable Products
+  - Trading Systems
+  - RAG Pipelines
+  - LLM Fine-Tuning
+  - High Throughput APIs
 ```
 
 </td>
@@ -65,11 +82,9 @@ Current Focus:
 
 ---
 
-<div align="center">
+# 🧬 ENGINEERING PHILOSOPHY
 
-# 🧠 ENGINEERING DNA
-
-</div>
+> **Build for scale. Optimize for speed. Design for evolution.**
 
 <table>
 <tr>
@@ -77,8 +92,7 @@ Current Focus:
 
 ### ⚙ Performance
 
-Building systems where
-latency matters.
+Every system should respect latency.
 
 </td>
 
@@ -86,8 +100,7 @@ latency matters.
 
 ### 🧠 Intelligence
 
-AI-native systems
-with practical use.
+AI should be part of the architecture.
 
 </td>
 
@@ -95,8 +108,7 @@ with practical use.
 
 ### 🏗 Scale
 
-Architecture designed
-for long-term growth.
+Build systems that survive growth.
 
 </td>
 </tr>
@@ -104,15 +116,11 @@ for long-term growth.
 
 ---
 
-<div align="center">
-
 # 🛠 TECH STACK
 
-</div>
-
+<p align="center">
 <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts,sql,react,nextjs,tailwind,nodejs,express,spring,fastapi,flask,mongodb,mysql,redis,docker,tensorflow,pytorch"/>
-
-<br><br>
+</p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Transformers-black?style=flat-square"/>
@@ -120,141 +128,145 @@ for long-term growth.
 <img src="https://img.shields.io/badge/QLoRA-black?style=flat-square"/>
 <img src="https://img.shields.io/badge/PEFT-black?style=flat-square"/>
 <img src="https://img.shields.io/badge/BERT-black?style=flat-square"/>
+<img src="https://img.shields.io/badge/XGBoost-black?style=flat-square"/>
 </p>
 
 ---
 
-<div align="center">
-
-# 🚀 FEATURED BUILDS
-
-</div>
+# 🚀 SYSTEMS I BUILD
 
 <table>
 <tr>
 <td width="50%">
+
+### Backend Systems
+
+◈ Auth Architectures
+◈ Rate Limiting Systems
+◈ WebSocket Servers
+◈ Caching Layers
+◈ Event Pipelines
+
+</td>
+
+<td width="50%">
+
+### AI Systems
+
+◈ RAG Pipelines
+◈ NLP Systems
+◈ Fine-Tuned LLMs
+◈ Recommendation Systems
+◈ Prediction Engines
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🚀 FLAGSHIP PROJECTS
 
 ## 🎯 InterviewPilot AI
 
-**Adaptive RAG Interview Engine**
+**Adaptive RAG-Powered Interview Intelligence**
 
-┣ Resume Parsing
-┣ JD Matching
-┣ AI Interview Simulation
-┣ LLM Evaluation
-┣ Weakness Detection
-┣ Roadmap Generation
+**Problem Solved:** Static interview prep tools.
 
-**Stack**
+**What I built:**
 
-`FastAPI` `React` `Gemini` `ChromaDB`
+```text id="c8d912"
+Resume → Skill Extraction → Vector Search
+                           ↓
+                    AI Questions
+                           ↓
+                     Evaluation
+                           ↓
+                Weakness Detection
+                           ↓
+                 Personalized Roadmap
+```
 
-</td>
-<td width="50%">
+### Product Highlights
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Azziz14&repo=Rag_Placement_Copilot-&theme=github_dark"/>
+✔ Dynamic difficulty adaptation
+✔ Resume-job intelligence mapping
+✔ Multi-session learning evolution
+✔ Personalized improvement engine
 
-</td>
-</tr>
-</table>
+**Stack:** `FastAPI` `React` `Gemini` `ChromaDB`
 
 ---
-
-<table>
-<tr>
-<td width="50%">
 
 ## 📈 CryptoTrade
 
-**Low-Latency Trading Platform**
+**Real-Time Trading Infrastructure**
 
-┣ WebSocket Streams
-┣ Market Execution
-┣ Portfolio Tracking
-┣ Redis OTP Cache
-┣ JWT + 2FA
-┣ Rate Limiting
+**Problem Solved:** Slow execution + weak event architecture.
 
-**Stack**
-
-`Spring Boot` `React` `Redis`
-
-</td>
-<td width="50%">
-
-```text
-Latency: <100ms
-Architecture: Event Driven
-Scale: High Frequency
+```text id="d7f11c"
+Market Stream → WebSocket Layer
+                     ↓
+              Execution Engine
+                     ↓
+             Portfolio Analytics
+                     ↓
+              Security Controls
 ```
 
-</td>
-</tr>
-</table>
+### Metrics
+
+⚡ Latency <100ms
+⚡ Real-time order execution
+⚡ Event-driven processing
+⚡ Rate-limited security pipeline
+
+**Stack:** `Spring Boot` `Redis` `MongoDB`
 
 ---
-
-<table>
-<tr>
-<td width="50%">
 
 ## 🧠 QueryForge AI
 
-**Natural Language → SQL Engine**
+**Natural Language → SQL Compiler**
 
-┣ Fine-Tuned CodeLlama
-┣ QLoRA Training
-┣ SQL Generation
-┣ FastAPI Deployment
+**Problem Solved:** Writing SQL manually.
 
-</td>
-<td width="50%">
+### Metrics
 
-```text
-80k+ Training Pairs
-79% Benchmark Accuracy
-Sub-second Inference
+```text id="9ea40f"
+Training Data: 80,000+
+Execution Accuracy: 79%
+Inference Speed: <1 second
 ```
 
-</td>
-</tr>
-</table>
+### Core
+
+✔ Fine-Tuned CodeLlama
+✔ QLoRA + PEFT
+✔ SQL Execution Validation
+
+**Stack:** `Transformers` `FastAPI`
 
 ---
-
-<table>
-<tr>
-<td width="50%">
 
 ## 🏥 MediSense AI
 
-**Clinical Intelligence System**
+**Predictive Clinical Intelligence**
 
-┣ Disease Prediction
-┣ BERT NLP Pipeline
-┣ Analytics Engine
-┣ Health Advisory
+**Problem Solved:** Early health pattern detection.
 
-</td>
-<td width="50%">
+### Scale
 
-```text
-Medical AI
-NLP + Prediction
-10k+ Records
-```
+✔ 10k+ medical records
+✔ BERT NLP pipeline
+✔ Predictive diagnostics
+✔ Advisory intelligence
 
-</td>
-</tr>
-</table>
+**Stack:** `TensorFlow` `BERT`
 
 ---
 
-<div align="center">
-
-# 📊 DEVELOPMENT SIGNALS
-
-</div>
+# 📊 ENGINEERING SIGNALS
 
 <p align="center">
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Azziz14&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -267,52 +279,63 @@ NLP + Prediction
 
 ---
 
-<div align="center">
+# 🧩 PROBLEM SOLVING SIGNAL
 
-# 🏅 EXPERIENCE
-
-</div>
-
-```text
-MagnumCorps
-Web Development Intern
-Jun 2024 — Aug 2024
+```text id="ffb3d8"
+LeetCode Solved: 150+
+Core Domains:
+Arrays • Trees • Graphs • DP
+Hashing • Sliding Window • Stack
 ```
 
-```text
-Yashika Tour & Travel
-Freelance Full Stack Developer
-Oct 2024 — Dec 2024
-```
+Problem solving builds engineering intuition.
 
 ---
 
-<div align="center">
+# 💼 EXPERIENCE
+
+### MagnumCorps
+
+Web Development Intern
+`Jun 2024 — Aug 2024`
+
+Built scalable frontend systems and integrated APIs.
+
+---
+
+### Yashika Tour & Travel
+
+Freelance Full Stack Developer
+`Oct 2024 — Dec 2024`
+
+Built and deployed production-grade booking infrastructure.
+
+---
 
 # 🎖 CERTIFICATIONS
 
-Salesforce Agentforce Specialist • Azure AI-900 • OCI AI Foundations • Generative AI
+🏅 Salesforce Agentforce Specialist
+🏅 Azure AI-900
+🏅 Oracle Cloud AI Foundations
+🏅 Generative AI Development
 
-</div>
+---
+
+# 🏆 BEYOND CODE
+
+⚽ J&K Under-15 Football Squad
+🧘 State-Level Yoga Representation
+
+Discipline translates across domains.
 
 ---
 
 <div align="center">
 
-# ⚔ EXTRA SIGNAL
+## I build products.
 
-150+ LeetCode Problems
-J&K Under-15 Football Squad
-State-Level Yoga Representation
+## I design systems.
 
-</div>
-
----
-
-<div align="center">
-
-### Building software that scales.
-
-### Building systems that think.
+## I solve complexity.
 
 </div>
