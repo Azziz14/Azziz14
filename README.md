@@ -100,31 +100,44 @@ Built an adaptive AI platform that learns from candidate performance.
 ### Architecture
 
 ```text
-Resume Upload
-     ↓
-Skill Extraction
-     ↓
-JD Analysis
-     ↓
-Vector Retrieval
-     ↓
-AI Questions
-     ↓
-LLM Evaluation
-     ↓
-Weakness Detection
-     ↓
-Personalized Roadmap
+                ┌────────────────────┐
+                │   Resume Upload    │
+                └─────────┬──────────┘
+                          │
+                          ▼
+                ┌────────────────────┐
+                │ Skill Extraction   │
+                └─────────┬──────────┘
+                          │
+        ┌─────────────────┴─────────────────┐
+        ▼                                   ▼
+┌───────────────┐                   ┌───────────────┐
+│ JD Analyzer   │                   │ Vector Store  │
+│ Matcher       │◄─────────────────►│ (ChromaDB)    │
+└───────┬───────┘                   └───────┬───────┘
+        │                                   │
+        └───────────────┬───────────────────┘
+                        ▼
+              ┌───────────────────┐
+              │ Question Engine   │
+              └─────────┬─────────┘
+                        │
+                        ▼
+              ┌───────────────────┐
+              │ LLM Evaluation    │
+              └─────────┬─────────┘
+                        │
+         ┌──────────────┴──────────────┐
+         ▼                             ▼
+┌──────────────────┐         ┌──────────────────┐
+│ Weakness Engine  │         │ Performance DB   │
+└─────────┬────────┘         └──────────────────┘
+          │
+          ▼
+┌────────────────────────────┐
+│ Personalized Roadmap       │
+└────────────────────────────┘
 ```
-
-### Core Systems
-
-◆ Resume Parsing  
-◆ JD Matching  
-◆ RAG Pipeline  
-◆ AI Evaluation  
-◆ Weakness Detection  
-◆ Personalized Roadmaps  
 
 ### Stack
 
@@ -147,15 +160,30 @@ Built an event-driven real-time trading engine.
 ### Architecture
 
 ```text
-Binance Stream
-      ↓
-WebSocket Handler
-      ↓
-Execution Engine
-   ↙        ↘
-Risk       Analytics
-   ↓          ↓
-Portfolio → Dashboard
+                ┌────────────────────┐
+                │ Binance WebSocket  │
+                └─────────┬──────────┘
+                          │
+                          ▼
+                ┌────────────────────┐
+                │ Stream Processor   │
+                └─────────┬──────────┘
+                          │
+          ┌───────────────┼───────────────┐
+          ▼               ▼               ▼
+ ┌──────────────┐ ┌──────────────┐ ┌──────────────┐
+ │ Order Engine │ │ Risk Engine  │ │ Price Cache  │
+ └──────┬───────┘ └──────┬───────┘ └──────┬───────┘
+        │                │                │
+        ▼                ▼                ▼
+ ┌──────────────┐ ┌──────────────┐ ┌──────────────┐
+ │ Portfolio DB │ │ Redis OTP    │ │ Analytics    │
+ └──────┬───────┘ └──────┬───────┘ └──────┬───────┘
+        └────────────┬───┴────────────┬───┘
+                     ▼                ▼
+             ┌────────────────────────────┐
+             │ React Trading Dashboard    │
+             └────────────────────────────┘
 ```
 
 ### Metrics
@@ -185,15 +213,31 @@ Built an LLM system that converts natural language into SQL.
 ### Architecture
 
 ```text
-User Query
-    ↓
-LLM Understanding
-    ↓
-SQL Generation
-    ↓
-Validation Layer
-    ↓
-Execution
+               ┌────────────────────┐
+               │ User Query (NL)    │
+               └─────────┬──────────┘
+                         │
+                         ▼
+               ┌────────────────────┐
+               │ Intent Analyzer    │
+               └─────────┬──────────┘
+                         │
+          ┌──────────────┴──────────────┐
+          ▼                             ▼
+ ┌──────────────────┐         ┌──────────────────┐
+ │ Schema Context   │         │ CodeLlama Model  │
+ │ Retrieval        │────────►│ SQL Generation   │
+ └──────────────────┘         └─────────┬────────┘
+                                        │
+                                        ▼
+                             ┌──────────────────┐
+                             │ SQL Validator    │
+                             └─────────┬────────┘
+                                       │
+                                       ▼
+                             ┌──────────────────┐
+                             │ Final SQL Output │
+                             └──────────────────┘
 ```
 
 ### Metrics
@@ -223,24 +267,33 @@ Built predictive healthcare intelligence.
 ### Architecture
 
 ```text
-Medical Data
-     ↓
-Preprocessing
-     ↓
-Feature Extraction
-     ↓
-Prediction Engine
-     ↓
-Clinical Insights
-     ↓
-Health Advisory
+                ┌────────────────────┐
+                │ Medical Records    │
+                └─────────┬──────────┘
+                          │
+                          ▼
+                ┌────────────────────┐
+                │ Data Cleaning      │
+                └─────────┬──────────┘
+                          │
+         ┌────────────────┴────────────────┐
+         ▼                                 ▼
+┌──────────────────┐              ┌──────────────────┐
+│ Feature Extract  │              │ Clinical NLP     │
+│ (Numerical)      │              │ (BERT)           │
+└─────────┬────────┘              └─────────┬────────┘
+          └───────────────┬─────────────────┘
+                          ▼
+                ┌────────────────────┐
+                │ Prediction Engine  │
+                └─────────┬──────────┘
+                          │
+          ┌───────────────┴───────────────┐
+          ▼                               ▼
+┌──────────────────┐             ┌──────────────────┐
+│ Diagnostic Layer │             │ Health Advisory  │
+└──────────────────┘             └──────────────────┘
 ```
-
-### Metrics
-
-◆ 10k+ Records  
-◆ Multi-class Prediction  
-◆ NLP-powered Diagnosis  
 
 ### Stack
 
@@ -263,28 +316,38 @@ Built an ML-powered Gmail-integrated spam intelligence system.
 ### Architecture
 
 ```text
-Gmail API
-    ↓
-Email Fetcher
-    ↓
-Preprocessing
-    ↓
-Feature Extraction
-    ↓
-Spam Classifier
-   ↙        ↘
-Analytics   Dashboard
+               ┌────────────────────┐
+               │ Gmail API Fetcher  │
+               └─────────┬──────────┘
+                         │
+                         ▼
+               ┌────────────────────┐
+               │ Email Preprocessor │
+               └─────────┬──────────┘
+                         │
+         ┌───────────────┴───────────────┐
+         ▼                               ▼
+┌──────────────────┐             ┌──────────────────┐
+│ Feature Extract  │             │ Label Pipeline   │
+│ TF-IDF / NLP     │             │ Spam / Ham       │
+└─────────┬────────┘             └─────────┬────────┘
+          └──────────────┬─────────────────┘
+                         ▼
+               ┌────────────────────┐
+               │ ML Classification  │
+               │ Engine             │
+               └─────────┬──────────┘
+                         │
+         ┌───────────────┴───────────────┐
+         ▼                               ▼
+┌──────────────────┐             ┌──────────────────┐
+│ Analytics Layer  │             │ Admin Dashboard  │
+└──────────────────┘             └──────────────────┘
 ```
-
-### Metrics
-
-◆ 94% Precision  
-◆ Gmail OAuth Integration  
-◆ Automated Retraining  
 
 ### Stack
 
-`Python` `Scikit-learn` `Flask` `Gmail API`
+`Python` `Scikit-learn` `Flask`
 
 ---
 
@@ -293,7 +356,6 @@ Analytics   Dashboard
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Azziz14&show_icons=true&theme=tokyonight&hide_border=true"/>
-
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azziz14&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br><br>
@@ -316,23 +378,13 @@ Analytics   Dashboard
 
 # 🧩 PROBLEM SOLVING
 
-### LeetCode Journey
+◈ **150+ LeetCode Problems Solved**
 
-◈ **150+ Problems Solved**
-
-### Core Domains
+Core domains:
 
 `Arrays` `Trees` `Graphs` `DP`  
 `Hashing` `Sliding Window` `Stacks`  
 `Binary Search` `Greedy`
-
-### What it strengthened
-
-◆ Pattern Recognition  
-◆ Complexity Analysis  
-◆ Optimization Thinking  
-◆ Edge Case Handling  
-◆ Problem Decomposition  
 
 ---
 
@@ -342,22 +394,18 @@ Analytics   Dashboard
 **Web Development Intern**  
 `Jun 2024 — Aug 2024`
 
-Built scalable frontend modules and integrated APIs.
-
 ---
 
 ### 🚀 Yashika Tour & Travel  
 **Freelance Full Stack Developer**  
 `Oct 2024 — Dec 2024`
 
-Built end-to-end booking systems.
-
 ---
 
 # 🎓 CERTIFICATIONS
 
 ◆ Salesforce Agentforce Specialist  
-◆ Azure AI Fundamentals (AI-900)  
+◆ Azure AI Fundamentals  
 ◆ Oracle Cloud AI Foundations  
 ◆ Generative AI Development  
 
@@ -365,17 +413,11 @@ Built end-to-end booking systems.
 
 # 🏆 BEYOND CODE
 
-### Sports & Discipline
-
 ⚽ J&K Under-15 Football Squad  
 🧘 State-Level Yoga Representation  
-
-### Personal Edge
-
 ◆ Discipline under pressure  
 ◆ Team collaboration  
 ◆ Competitive mindset  
-◆ Long-term consistency  
 
 ---
 
