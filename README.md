@@ -1,148 +1,259 @@
-<div align="center">
+# 🚀 Flagship Builds
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24,30&text=ASHISH%20GUPTA&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
+---
 
-### ⚡ Backend Engineer • 🧠 AI Systems Builder • 🏗️ Scalable Architectures
+## 🎯 InterviewPilot AI
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+Scalable+Systems+That+Think;Real-Time+Products+at+Scale;AI+Infrastructure+%7C+Distributed+Systems;Low-Latency+Backend+Engineering" />
+### *Adaptive RAG-Powered Interview Intelligence Platform*
+
+<table>
+<tr>
+<td width="55%">
+
+**Problem**
+
+Traditional interview platforms are static and generic.
+
+**Solution**
+
+Built an adaptive AI ecosystem that learns from candidate performance and dynamically evolves interview difficulty.
+
+---
+
+### Core Systems
+
+◈ Resume Parsing Engine
+◈ JD Matching System
+◈ Vector Retrieval Pipeline
+◈ AI Question Generation
+◈ LLM Evaluation Engine
+◈ Weakness Detection Layer
+◈ Personalized Roadmap Generator
+◈ Resume Tailoring Engine
+
+---
+
+### Business Impact
+
+⚡ Personalized interview experiences
+⚡ Faster job-readiness
+⚡ Resume-job alignment intelligence
 
 <br>
 
-<a href="mailto:ashishking554@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
-</a>
-<a href="https://linkedin.com/in/ashish-gupta-007620292">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-<a href="https://github.com/Azziz14">
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github"/>
-</a>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react"/>
+<img src="https://img.shields.io/badge/Gemini-black?style=flat-square"/>
+<img src="https://img.shields.io/badge/ChromaDB-orange?style=flat-square"/>
 
-</div>
+</td>
 
----
-
-# 🧠 About Me
-
-```diff
-+ Building intelligent systems
-+ Engineering scalable backend infrastructure
-+ Exploring distributed systems and AI architectures
-+ Solving complex engineering problems
-```
-
----
-
-# ⚒️ Tech Arsenal
-
-### Languages
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,typescript,sql"/>
-</p>
-
-### Backend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express,fastapi,redis,mongodb,mysql,docker"/>
-</p>
-
-### Frontend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind"/>
-</p>
-
-### AI
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/RAG-4ECDC4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Transformers-FFA726?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/QLoRA-45B7D1?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PEFT-9B59B6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/BERT-FF6B6B?style=for-the-badge"/>
-</p>
-
----
-
-# 🚀 Flagship Builds
-
-### 🎯 InterviewPilot AI
+<td width="45%">
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Azziz14&repo=Rag_Placement_Copilot-&theme=tokyonight"/>
 
-⚡ Adaptive Interview Intelligence
-⚡ Resume Parsing + Job Matching
-⚡ Vector Retrieval + AI Evaluation
-⚡ Personalized Roadmaps
+<br>
+
+```text
+Resume → Skill Extraction
+         ↓
+    Vector Search
+         ↓
+   AI Questioning
+         ↓
+     Evaluation
+         ↓
+ Weakness Detection
+         ↓
+   Learning Roadmap
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 📈 CryptoTrade
+## 📈 CryptoTrade
 
-<img src="https://img.shields.io/badge/Latency-%3C100ms-success?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Architecture-Event_Driven-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Streaming-Real_Time-orange?style=for-the-badge"/>
+### *Low-Latency Real-Time Trading Infrastructure*
 
-⚡ Binance WebSocket Streams
-⚡ Execution Engine
-⚡ Portfolio Analytics
-⚡ Redis Auth Layer
+<table>
+<tr>
+<td width="55%">
 
----
+**Problem**
 
-### 🧠 QueryForge AI
+Retail trading systems suffer from slow execution and weak streaming pipelines.
 
-<img src="https://img.shields.io/badge/Accuracy-79%25-blueviolet?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Training-80K+-orange?style=for-the-badge"/>
+**Solution**
 
-⚡ Natural Language → SQL
-⚡ Fine-Tuned CodeLlama
-⚡ FastAPI Deployment
+Built a real-time event-driven trading infrastructure around Binance WebSocket streams.
 
 ---
 
-### 🏥 MediSense AI
+### Core Systems
 
-<img src="https://img.shields.io/badge/Medical_Records-10K+-red?style=for-the-badge"/>
-
-⚡ Disease Prediction
-⚡ Clinical NLP
-⚡ Health Advisory Engine
-
----
-
-# 📊 GitHub Signals
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Azziz14&theme=tokyonight&row=1&column=6"/>
-</p>
-
-<p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Azziz14&show_icons=true&theme=tokyonight"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azziz14&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Azziz14&theme=tokyo-night"/>
-</p>
+◈ Live Market Streaming
+◈ Order Execution Engine
+◈ Portfolio Analytics
+◈ Redis OTP Authentication
+◈ Rate Limiting Layer
+◈ JWT + 2FA Security
 
 ---
 
-# 🏆 Achievements
+### Metrics
 
-🏅 150+ LeetCode Problems
-⚽ J&K Under-15 Football Squad
-🧘 State-Level Yoga Representation
+⚡ Latency <100ms
+⚡ Real-time event processing
+⚡ High-frequency architecture
+
+<br>
+
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot"/>
+<img src="https://img.shields.io/badge/Redis-red?style=flat-square&logo=redis"/>
+<img src="https://img.shields.io/badge/MongoDB-green?style=flat-square&logo=mongodb"/>
+
+</td>
+
+<td width="45%">
+
+```text
+Market Stream
+      ↓
+ WebSocket Layer
+      ↓
+ Execution Engine
+      ↓
+Portfolio Tracking
+      ↓
+ Security Controls
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
-<div align="center">
+## 🧠 QueryForge AI
 
-### Build systems. Solve complexity. Scale ideas.
+### *Natural Language → SQL Compiler*
 
-</div>
+<table>
+<tr>
+<td width="55%">
+
+**Problem**
+
+Writing optimized SQL manually takes time.
+
+**Solution**
+
+Fine-tuned an LLM system to translate natural language into executable SQL.
+
+---
+
+### Core Systems
+
+◈ CodeLlama Fine-Tuning
+◈ QLoRA Training Pipeline
+◈ PEFT Optimization
+◈ SQL Validation Layer
+◈ FastAPI Deployment
+
+---
+
+### Metrics
+
+⚡ 80k+ training pairs
+⚡ 79% Spider benchmark accuracy
+⚡ Sub-second inference
+
+<br>
+
+<img src="https://img.shields.io/badge/Transformers-orange?style=flat-square"/>
+<img src="https://img.shields.io/badge/QLoRA-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square"/>
+
+</td>
+
+<td width="45%">
+
+```text
+User Query
+    ↓
+LLM Understanding
+    ↓
+SQL Generation
+    ↓
+Validation Layer
+    ↓
+Executable Query
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🏥 MediSense AI
+
+### *Clinical Intelligence System*
+
+<table>
+<tr>
+<td width="55%">
+
+**Problem**
+
+Early disease detection is often delayed.
+
+**Solution**
+
+Built an AI system for predictive diagnostics and health advisory generation.
+
+---
+
+### Core Systems
+
+◈ Disease Prediction Engine
+◈ Clinical NLP via BERT
+◈ Diagnostic Analytics
+◈ Health Recommendation Layer
+
+---
+
+### Metrics
+
+⚡ 10k+ medical records
+⚡ Multi-class disease prediction
+⚡ NLP-enhanced diagnostics
+
+<br>
+
+<img src="https://img.shields.io/badge/TensorFlow-orange?style=flat-square&logo=tensorflow"/>
+<img src="https://img.shields.io/badge/BERT-blueviolet?style=flat-square"/>
+<img src="https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask"/>
+
+</td>
+
+<td width="45%">
+
+```text
+Medical Data
+     ↓
+ Prediction Layer
+     ↓
+ Clinical NLP
+     ↓
+ Diagnosis Insights
+     ↓
+ Health Advisory
+```
+
+</td>
+</tr>
+</table>
