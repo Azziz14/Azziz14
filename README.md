@@ -1,259 +1,370 @@
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24,30&text=ASHISH%20GUPTA&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
+
+<h3>⚡ Backend Engineer • 🧠 AI Systems Builder • 🏗️ Scalable Architectures</h3>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+Scalable+Systems+That+Think;Low-Latency+Products+at+Scale;AI+Infrastructure+%7C+Distributed+Systems;Turning+Complexity+Into+Products" />
+
+<br><br>
+
+<a href="mailto:ashishking554@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://linkedin.com/in/ashish-gupta-007620292">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/Azziz14">
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+---
+
+# 🧠 About Me
+
+```diff id="f7n29a"
++ Engineering backend systems that scale under heavy load
++ Building AI-native products for real-world use cases
++ Designing distributed systems and event-driven architectures
++ Solving complexity through system design and performance optimization
+```
+
+I build systems where:
+
+⚡ Speed matters
+🧠 Intelligence matters
+🏗 Scale matters
+
+---
+
+# ⚒️ Tech Arsenal
+
+### Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,typescript,sql"/>
+</p>
+
+### Backend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,fastapi,redis,mongodb,mysql,docker"/>
+</p>
+
+### Frontend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind"/>
+</p>
+
+### AI / ML
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/RAG-4ECDC4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Transformers-FFA726?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/QLoRA-45B7D1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PEFT-9B59B6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/BERT-FF6B6B?style=for-the-badge"/>
+</p>
+
+---
+
 # 🚀 Flagship Builds
 
 ---
 
 ## 🎯 InterviewPilot AI
 
-### *Adaptive RAG-Powered Interview Intelligence Platform*
+### Adaptive RAG-Powered Interview Intelligence Platform
 
-<table>
-<tr>
-<td width="55%">
+**Why I built it**
 
-**Problem**
+Most interview preparation tools are generic. They ask static questions without understanding the candidate’s background, skill gaps, or target role.
 
-Traditional interview platforms are static and generic.
+I built InterviewPilot to make interview preparation adaptive and personalized.
 
-**Solution**
+It understands:
 
-Built an adaptive AI ecosystem that learns from candidate performance and dynamically evolves interview difficulty.
+* your resume
+* your target job description
+* your past interview performance
 
----
-
-### Core Systems
-
-◈ Resume Parsing Engine
-◈ JD Matching System
-◈ Vector Retrieval Pipeline
-◈ AI Question Generation
-◈ LLM Evaluation Engine
-◈ Weakness Detection Layer
-◈ Personalized Roadmap Generator
-◈ Resume Tailoring Engine
+and builds a custom preparation loop.
 
 ---
 
-### Business Impact
+**How it works**
 
-⚡ Personalized interview experiences
-⚡ Faster job-readiness
-⚡ Resume-job alignment intelligence
+Resume Upload → Skill Extraction → JD Analysis → Vector Retrieval → AI Question Generation → Answer Evaluation → Weakness Detection → Learning Roadmap
 
-<br>
+---
 
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react"/>
-<img src="https://img.shields.io/badge/Gemini-black?style=flat-square"/>
-<img src="https://img.shields.io/badge/ChromaDB-orange?style=flat-square"/>
+**What I engineered**
 
-</td>
+◈ Resume parser for extracting experience and skills
+◈ Job description matching engine
+◈ RAG pipeline for contextual interview generation
+◈ LLM evaluation engine for scoring responses
+◈ Weakness detection system
+◈ Personalized roadmap generator
 
-<td width="45%">
+---
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Azziz14&repo=Rag_Placement_Copilot-&theme=tokyonight"/>
+**Impact**
 
-<br>
+This transforms interview preparation into a continuously evolving learning system.
 
-```text
-Resume → Skill Extraction
-         ↓
-    Vector Search
-         ↓
-   AI Questioning
-         ↓
-     Evaluation
-         ↓
- Weakness Detection
-         ↓
-   Learning Roadmap
-```
+Instead of random practice, users improve based on actual weaknesses.
 
-</td>
-</tr>
-</table>
+---
+
+**Stack**
+
+`FastAPI` `React` `Gemini` `ChromaDB` `PostgreSQL`
 
 ---
 
 ## 📈 CryptoTrade
 
-### *Low-Latency Real-Time Trading Infrastructure*
+### Low-Latency Real-Time Trading Infrastructure
 
-<table>
-<tr>
-<td width="55%">
+**Why I built it**
 
-**Problem**
+Trading systems depend on speed.
 
-Retail trading systems suffer from slow execution and weak streaming pipelines.
+Even small delays can affect execution quality.
 
-**Solution**
+I built CryptoTrade to understand how real-time financial systems handle:
 
-Built a real-time event-driven trading infrastructure around Binance WebSocket streams.
-
----
-
-### Core Systems
-
-◈ Live Market Streaming
-◈ Order Execution Engine
-◈ Portfolio Analytics
-◈ Redis OTP Authentication
-◈ Rate Limiting Layer
-◈ JWT + 2FA Security
+* streaming data
+* order execution
+* security
+* concurrency
 
 ---
 
-### Metrics
+**How it works**
 
-⚡ Latency <100ms
-⚡ Real-time event processing
-⚡ High-frequency architecture
+Binance WebSocket Streams → Execution Engine → Portfolio Analytics → Risk Controls → Secure Auth Layer
 
-<br>
+---
 
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot"/>
-<img src="https://img.shields.io/badge/Redis-red?style=flat-square&logo=redis"/>
-<img src="https://img.shields.io/badge/MongoDB-green?style=flat-square&logo=mongodb"/>
+**What I engineered**
 
-</td>
+◈ Live market streaming infrastructure
+◈ Market and limit order execution engine
+◈ Portfolio tracking system
+◈ Redis-based OTP verification
+◈ JWT + 2FA security
+◈ Token bucket rate limiting
 
-<td width="45%">
+---
 
-```text
-Market Stream
-      ↓
- WebSocket Layer
-      ↓
- Execution Engine
-      ↓
-Portfolio Tracking
-      ↓
- Security Controls
-```
+**Impact**
 
-</td>
-</tr>
-</table>
+Built for sub-100ms updates and event-driven execution.
+
+This project taught me real-time architecture, concurrency, and state management.
+
+---
+
+**Stack**
+
+`Spring Boot` `Java` `React` `Redis` `MongoDB`
 
 ---
 
 ## 🧠 QueryForge AI
 
-### *Natural Language → SQL Compiler*
+### Natural Language → SQL Compiler
 
-<table>
-<tr>
-<td width="55%">
+**Why I built it**
 
-**Problem**
+Writing SQL manually is slow and requires database expertise.
 
-Writing optimized SQL manually takes time.
-
-**Solution**
-
-Fine-tuned an LLM system to translate natural language into executable SQL.
+I wanted to create a system where users could simply describe what they want.
 
 ---
 
-### Core Systems
+**How it works**
 
-◈ CodeLlama Fine-Tuning
-◈ QLoRA Training Pipeline
-◈ PEFT Optimization
-◈ SQL Validation Layer
-◈ FastAPI Deployment
+User Query → LLM Understanding → SQL Generation → Validation Layer → Executable SQL
 
 ---
 
-### Metrics
+**What I engineered**
 
-⚡ 80k+ training pairs
+◈ Fine-tuned CodeLlama model
+◈ QLoRA training pipeline
+◈ PEFT optimization
+◈ SQL validation engine
+◈ FastAPI inference deployment
+
+---
+
+**Metrics**
+
+⚡ Trained on 80k+ SQL pairs
 ⚡ 79% Spider benchmark accuracy
 ⚡ Sub-second inference
 
-<br>
+---
 
-<img src="https://img.shields.io/badge/Transformers-orange?style=flat-square"/>
-<img src="https://img.shields.io/badge/QLoRA-blue?style=flat-square"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square"/>
+**Impact**
 
-</td>
+Makes databases more accessible by reducing technical barriers.
 
-<td width="45%">
+---
 
-```text
-User Query
-    ↓
-LLM Understanding
-    ↓
-SQL Generation
-    ↓
-Validation Layer
-    ↓
-Executable Query
-```
+**Stack**
 
-</td>
-</tr>
-</table>
+`Transformers` `QLoRA` `FastAPI`
 
 ---
 
 ## 🏥 MediSense AI
 
-### *Clinical Intelligence System*
+### Clinical Intelligence Platform
 
-<table>
-<tr>
-<td width="55%">
+**Why I built it**
 
-**Problem**
+Early diagnosis can save lives.
 
-Early disease detection is often delayed.
+But recognizing patterns in large health datasets is difficult.
 
-**Solution**
-
-Built an AI system for predictive diagnostics and health advisory generation.
+This system helps identify diseases earlier using predictive intelligence.
 
 ---
 
-### Core Systems
+**How it works**
 
-◈ Disease Prediction Engine
-◈ Clinical NLP via BERT
-◈ Diagnostic Analytics
-◈ Health Recommendation Layer
+Medical Data → Prediction Engine → Clinical NLP → Diagnostic Analysis → Health Advisory
 
 ---
 
-### Metrics
+**What I engineered**
+
+◈ Disease prediction models
+◈ BERT-based clinical NLP pipeline
+◈ Diagnostic analytics engine
+◈ Personalized advisory system
+
+---
+
+**Metrics**
 
 ⚡ 10k+ medical records
 ⚡ Multi-class disease prediction
-⚡ NLP-enhanced diagnostics
+⚡ NLP-enhanced diagnosis
 
-<br>
+---
 
-<img src="https://img.shields.io/badge/TensorFlow-orange?style=flat-square&logo=tensorflow"/>
-<img src="https://img.shields.io/badge/BERT-blueviolet?style=flat-square"/>
-<img src="https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask"/>
+**Impact**
 
-</td>
+Supports faster clinical decision-making and improves diagnostic confidence.
 
-<td width="45%">
+---
 
-```text
-Medical Data
-     ↓
- Prediction Layer
-     ↓
- Clinical NLP
-     ↓
- Diagnosis Insights
-     ↓
- Health Advisory
-```
+**Stack**
 
-</td>
-</tr>
-</table>
+`TensorFlow` `BERT` `Flask`
+
+---
+
+# 📊 Engineering Signals
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Azziz14&theme=tokyonight&row=1&column=6"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Azziz14&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azziz14&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Azziz14&theme=tokyo-night"/>
+
+</div>
+
+---
+
+# 🔥 Contribution Heatmap
+
+<div align="center">
+
+<img width="95%" src="https://ghchart.rshah.org/58A6FF/Azziz14" />
+
+</div>
+
+---
+
+# 🧩 Problem Solving
+
+LeetCode: **150+ Problems Solved**
+
+Core domains:
+
+Arrays • Trees • Graphs • DP • Hashing • Sliding Window • Stack
+
+---
+
+# 💼 Experience
+
+### MagnumCorps
+
+Web Development Intern
+`Jun 2024 – Aug 2024`
+
+Built scalable frontend systems and integrated APIs.
+
+---
+
+### Yashika Tour & Travel
+
+Freelance Full Stack Developer
+`Oct 2024 – Dec 2024`
+
+Built and deployed a full booking platform.
+
+---
+
+# 🎖 Certifications
+
+🏅 Salesforce Agentforce Specialist
+🏅 Azure AI Fundamentals (AI-900)
+🏅 Oracle Cloud AI Foundations
+🏅 Generative AI Development
+
+---
+
+# 🏆 Beyond Code
+
+⚽ J&K Under-15 Football Squad
+🧘 State-Level Yoga Representation
+🧩 150+ LeetCode Problems Solved
+
+---
+
+<div align="center">
+
+## Build systems. Solve complexity. Scale ideas.
+
+</div>
