@@ -95,9 +95,9 @@ Traditional interview preparation platforms are static and generic.
 
 **Solution**
 
-Built an adaptive AI platform that learns from candidate performance, detects weaknesses, and creates personalized preparation loops.
+Built an adaptive AI platform that learns from candidate performance.
 
-### System Flow
+### Architecture
 
 ```text
 Resume Upload
@@ -108,7 +108,7 @@ JD Analysis
      ↓
 Vector Retrieval
      ↓
-AI Question Generation
+AI Questions
      ↓
 LLM Evaluation
      ↓
@@ -119,10 +119,10 @@ Personalized Roadmap
 
 ### Core Systems
 
-◆ Resume Parsing Engine  
-◆ JD Matching System  
+◆ Resume Parsing  
+◆ JD Matching  
 ◆ RAG Pipeline  
-◆ AI Evaluation Engine  
+◆ AI Evaluation  
 ◆ Weakness Detection  
 ◆ Personalized Roadmaps  
 
@@ -138,13 +138,13 @@ Personalized Roadmap
 
 **Problem**
 
-Retail trading systems suffer from slow execution and poor event streaming.
+Retail trading systems suffer from slow execution.
 
 **Solution**
 
-Built a real-time event-driven trading engine optimized for speed and concurrency.
+Built an event-driven real-time trading engine.
 
-### System Flow
+### Architecture
 
 ```text
 Binance Stream
@@ -164,17 +164,9 @@ Portfolio → Dashboard
 ◆ Real-time execution  
 ◆ High throughput  
 
-### Core Systems
-
-◆ WebSocket Streams  
-◆ Order Execution Engine  
-◆ Portfolio Analytics  
-◆ Redis Auth Layer  
-◆ Rate Limiter  
-
 ### Stack
 
-`Spring Boot` `Java` `Redis` `MongoDB` `React`
+`Spring Boot` `Java` `Redis` `MongoDB`
 
 ---
 
@@ -184,13 +176,13 @@ Portfolio → Dashboard
 
 **Problem**
 
-Writing SQL manually takes time and expertise.
+SQL writing is slow and technical.
 
 **Solution**
 
-Built an LLM-powered system that converts natural language into executable SQL.
+Built an LLM system that converts natural language into SQL.
 
-### System Flow
+### Architecture
 
 ```text
 User Query
@@ -210,13 +202,6 @@ Execution
 ◆ 79% Accuracy  
 ◆ <1s Inference  
 
-### Core Systems
-
-◆ CodeLlama Fine-Tuning  
-◆ QLoRA Optimization  
-◆ SQL Validation  
-◆ FastAPI Deployment  
-
 ### Stack
 
 `Transformers` `QLoRA` `FastAPI`
@@ -229,13 +214,13 @@ Execution
 
 **Problem**
 
-Early disease detection from medical data is difficult.
+Disease detection from data is difficult.
 
 **Solution**
 
-Built an AI-driven predictive healthcare intelligence system.
+Built predictive healthcare intelligence.
 
-### System Flow
+### Architecture
 
 ```text
 Medical Data
@@ -257,16 +242,49 @@ Health Advisory
 ◆ Multi-class Prediction  
 ◆ NLP-powered Diagnosis  
 
-### Core Systems
+### Stack
 
-◆ Disease Prediction  
-◆ Clinical NLP  
-◆ Diagnostic Analytics  
-◆ Health Advisory Layer  
+`TensorFlow` `BERT` `Flask`
+
+---
+
+## 📧 Email Spam Classifier
+
+### Intelligent Email Filtering System
+
+**Problem**
+
+Spam and phishing emails reduce productivity.
+
+**Solution**
+
+Built an ML-powered Gmail-integrated spam intelligence system.
+
+### Architecture
+
+```text
+Gmail API
+    ↓
+Email Fetcher
+    ↓
+Preprocessing
+    ↓
+Feature Extraction
+    ↓
+Spam Classifier
+   ↙        ↘
+Analytics   Dashboard
+```
+
+### Metrics
+
+◆ 94% Precision  
+◆ Gmail OAuth Integration  
+◆ Automated Retraining  
 
 ### Stack
 
-`TensorFlow` `BERT` `Flask` `MongoDB`
+`Python` `Scikit-learn` `Flask` `Gmail API`
 
 ---
 
@@ -281,6 +299,16 @@ Health Advisory
 <br><br>
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Azziz14&theme=tokyo-night"/>
+
+</div>
+
+---
+
+# 🔥 CONTRIBUTION HEATMAP
+
+<div align="center">
+
+<img width="95%" src="https://ghchart.rshah.org/58A6FF/Azziz14"/>
 
 </div>
 
@@ -314,7 +342,7 @@ Health Advisory
 **Web Development Intern**  
 `Jun 2024 — Aug 2024`
 
-Built scalable frontend modules and integrated APIs in agile workflows.
+Built scalable frontend modules and integrated APIs.
 
 ---
 
@@ -322,7 +350,7 @@ Built scalable frontend modules and integrated APIs in agile workflows.
 **Freelance Full Stack Developer**  
 `Oct 2024 — Dec 2024`
 
-Built and deployed end-to-end production-grade booking systems.
+Built end-to-end booking systems.
 
 ---
 
@@ -339,8 +367,8 @@ Built and deployed end-to-end production-grade booking systems.
 
 ### Sports & Discipline
 
-⚽ Selected for J&K Under-15 Football Squad  
-🧘 Represented district in State-Level Yoga Championships  
+⚽ J&K Under-15 Football Squad  
+🧘 State-Level Yoga Representation  
 
 ### Personal Edge
 
